@@ -1,0 +1,14 @@
+
+---
+
+spring.profiles: default
+
+hello: spring.profiles.active is default
+
+---
+
+spring.profiles: real
+
+hello: spring.profiles.active is real
+
+---

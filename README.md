@@ -1,0 +1,1 @@
+# spring-static-value-sample
