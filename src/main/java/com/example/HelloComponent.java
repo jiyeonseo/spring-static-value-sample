@@ -3,8 +3,6 @@ package com.example;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
-import javax.annotation.PostConstruct;
-
 /**
  * Created by jiyeon on 2016. 8. 27..
  */
