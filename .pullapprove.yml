@@ -8,5 +8,3 @@ groups:
     required: 1
     reset_on_push:
       enabled: true
-    users:
-    - jiyeonseo
